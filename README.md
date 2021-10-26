@@ -1,0 +1,2 @@
+# MathfCollection
+Unityの便利なMathf関数を紹介するために作成
